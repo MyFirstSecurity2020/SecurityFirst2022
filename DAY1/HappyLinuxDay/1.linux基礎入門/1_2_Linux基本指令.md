@@ -132,3 +132,17 @@ https://www.binarytides.com/linux-find-command-examples/
 
 檢視目錄底下的secret檔案內容 ==> 找沒有permission denied的檔案 ==> cat顯示答案 
 ```
+
+
+## Linux重要的redirection(重定向)與 pipe(管道)功能
+
+- pipe(管道)
+  - cat /etc/passwd | less
+
+- redirection(重定向)
+  - 輸出重定向(Output redirection)  ==> ls -al > ls.txt
+
+## shell programming
+
+
+
