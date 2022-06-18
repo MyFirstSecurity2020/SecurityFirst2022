@@ -69,26 +69,10 @@ python3 test.py
 ```
 # [2]使用Goolge Colab 平台開發python程式
 ```
-講師請自行決定教學內容
-底下僅提供簡單的測試
-有需要時再補充說明((或上網查詢)
-```
-```
 請課後 再看
 Colab 的簡介影片 ==>https://www.youtube.com/watch?v=inN8seMm7UI
 ```
-### 單元大綱
-```
-開啟Google Colab
-將在Google Colab執行的程式存到你自己的 Github 
-打開Google Drive(雲端硬碟) 檢視你開發的python程式(XXX.ipynb)
-下載 在Google Colab執行的程式(XXX.py格式) 
-下載 在Google Colab執行的程式(XXX.ipynb格式) 
 
-開啟別人在github上的XXX.ipynb程式
-
-講師可自行補充其他內容
-```
 
 ## 開始動手
 ```
@@ -129,4 +113,13 @@ print("2021年4月PyTorch version最新版本 請參閱https://pytorch.org/")
 ```
 上網google pip的各種作法
 https://pip.pypa.io/en/stable/
+```
+### 上網看看下列主題
+```
+將在Google Colab執行的程式存到你自己的 Github 
+打開Google Drive(雲端硬碟) 檢視你開發的python程式(XXX.ipynb)
+下載 在Google Colab執行的程式(XXX.py格式) 
+下載 在Google Colab執行的程式(XXX.ipynb格式) 
+開啟別人在github上的XXX.ipynb程式
+...
 ```
