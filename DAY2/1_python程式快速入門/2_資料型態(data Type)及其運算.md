@@ -315,15 +315,4 @@ Text Sequence Type — str
 Sequence Types — list, tuple, range
 Mapping Types — dict
 ```
-```
-# [進階範例]底下程式執行後結果為何?
 
-from queue import Queue
-q = Queue()
-q.put(1)
-q.put(2)
-q.put(3)
-q
-print(q.queue)
-q.get()
-```
