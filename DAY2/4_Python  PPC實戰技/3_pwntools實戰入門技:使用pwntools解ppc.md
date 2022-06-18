@@ -1,16 +1,9 @@
-# pwntools PPC-CTF實戰
+# 3_pwntools實戰入門技:使用pwntools解ppc
 
 - 1.熟悉連線指令  6.hello world
 - 2.pwntools 常用技術
 - 3.PPC_Ez/3rd 分析與解題
 
-```
-講師請照時間挑選其他題講解
-
-3.PPC_Ez/beautify 分析與解題
-4.PPC_Ez/count 分析與解題
-5.PPC_Hard/1.calculator
-```
 ## 1.熟悉連線指令 nc  
 - nc/ncat
   - 遠端連線工具
