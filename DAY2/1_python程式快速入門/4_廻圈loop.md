@@ -212,69 +212,11 @@ for i in range(1,6):
             if( i != k ) and (i != j) and (j != k):
                 print(i,j,k)
 ```
-```
-作業1:計算上題的總和
-```
+
 ### 程式設計題:九九乘法表
 ```
 留給你當作業：九九乘法表
 ```
 
-# 小小測驗:不必教 [自主學習主題]
 
-### 底下程式執行結果為何?
-```
-for x in range(19):
-  print(x)
-```
-```
-for x in range(0,19,2):
-  print(x)
-```
-```
-for x in range(20,11,-1):
-  print(x)
-```
-```
-for x in range(0,19,-1):
-  print(x)
-```
-```
-output = ''
-
-for x in range(0,19,3):
-  output += str(x)
-  print(output, end=" ")
-```
-```
-output = ''
-
-for x in range(0,19,3):
-  print(x, end=" ")
-```
-```
-list1 = range(0,19,3)
-
-for x in list1:
-  print(x, end=" ")
-```
-### [程式閱讀題] 下列程式輸入淨利潤為11111時請問輸出為何?
-```
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
- 
-i = int(input('淨利潤:'))
-
-arr = [1000000,600000,400000,200000,100000,0]
-rat = [0.01,0.015,0.03,0.05,0.075,0.1]
-r = 0
-
-for idx in range(0,6):
-    if i>arr[idx]:
-        r+=(i-arr[idx])*rat[idx]
-        print((i-arr[idx])*rat[idx])
-        i=arr[idx]
-
-print(r)
-```
 
