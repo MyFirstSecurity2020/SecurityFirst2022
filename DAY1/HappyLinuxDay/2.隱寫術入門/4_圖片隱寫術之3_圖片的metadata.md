@@ -1,5 +1,6 @@
 # 4_圖片隱寫術之3:圖片的metadata
-- 圖片還能怎麼藏資料
+- 圖片還能怎麼藏資料?
+- [How To View Image Metadata On Linux](https://ostechnix.com/how-to-view-image-metadata-on-linux/)
 
 ## 示範題目:
 ```
