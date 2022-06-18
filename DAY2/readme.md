@@ -25,7 +25,7 @@
     透過內建模組與第三方模組的學習與使用及CTF解題的激發下讓學生更快掌握python程式戰鬥力。
     本課程規劃三大類型的應用主題：
     (1)Python解碼器：使用python程式求解編碼題目的解碼技；
-    (2) Python古典破密法：使用python程式求解古典密碼的破密技；
-    (3) Python PPC實戰技：使用CTF資安競賽最最著名的第三方模組pwntools
+    (2)Python古典破密法：使用python程式求解古典密碼的破密技；
+    (3)Python PPC實戰技：使用CTF資安競賽最最著名的第三方模組pwntools
                    來實戰PPC (Professional Program Code)。
 ```
