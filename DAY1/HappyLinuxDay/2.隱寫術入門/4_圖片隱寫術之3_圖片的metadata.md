@@ -45,7 +45,12 @@ exiftool img.jpg  ==>即可讀出答案
 上網找資料學習ImageMagick的技巧 試看看用此工具解此題
 http://xahlee.info/img/imagemagic.html
 ```
-
+## Kali linux 20220618
+```
+file img.jpg
+strings img.jpg
+exif img.jpg
+```
 # 建議研讀
 ## metadata ==> 關於資料 的 資料（data-about-data）
 ```
