@@ -129,20 +129,9 @@ int(a)
 b = 0.9999
 int(a)
 ```
-### 作業:picoCTF 2017 : compute-rsa-50
-```
-RSA encryption/decryption is based on a formula that anyone can find and use, 
-as long as they know the values to plug in. 
 
-Given the encrypted number 150815, d = 1941, and N = 435979, 
-what is the decrypted number?
+- 運算優先順序 請參閱書籍
 
-HINTS
-decrypted = (encrypted) ^ d mod N
-```
-```
-運算優先順序 請參閱書籍
-```
 
 
 # 2_字串(string)及其運算
