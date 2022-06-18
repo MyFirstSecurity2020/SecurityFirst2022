@@ -8,6 +8,7 @@
 # 使用putty遠端連線
 
 - [下載putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+- [putty]()
 - 下載putty的版本
 ![下載putty版本](./putty.png)
 
