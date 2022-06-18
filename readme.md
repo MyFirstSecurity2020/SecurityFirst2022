@@ -17,7 +17,7 @@
 - 課程費用：無須任何課程費用
 
 ## 上課之前.....就要先練習
-- 首先完成你的 [github](https://github.com/) 申請
+- 首先完成你的 [github](https://github.com/) 申請  [官方解說:Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
 - 在你的電腦下載 [virtual box](https://www.virtualbox.org/wiki/Downloads) 並安裝完成 [Virtualbox安裝:YOUTUBE影片](https://youtu.be/FC0CX71aGnc)
 - 匯入你要用的linux  [YOUTUBE影片](https://youtu.be/GTpQR7fZcwE)
 
