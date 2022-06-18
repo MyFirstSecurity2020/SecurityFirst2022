@@ -3,15 +3,8 @@
 - 示範題目:Network 101:PicoCTF_2017: Special Agent User(MUST)
 
 
-## HTTP 協定
+## [HTTP 協定](https://github.com/MyFirstSecurity2020/SecurityFirst2022/blob/main/DAY1/HappyLinuxDay/3_Linux%20%E9%91%91%E8%AD%98%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80/HTTP.md)
 
-![HTTP 協定](./HTTPProtocol.png)
-
-- HTTP `Request`(HTTP client[瀏覽器或其他工具如CURL] 送出的`請求`封包)
-  - [請求方法(Request Methods):常見的有：GET ,POST, HEAD,OPTIONS,…](https://zh.wikipedia.org/wiki/超文本傳輸協議#請求方法)
-
-- HTTP `Response` (伺服器`回應`封包)
-  - Status Code(狀態碼)
 
 ## 題目分析
 ```
