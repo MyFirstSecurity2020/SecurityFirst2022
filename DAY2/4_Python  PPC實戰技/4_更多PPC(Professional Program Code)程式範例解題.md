@@ -1,9 +1,7 @@
-#
-```
+# 4_更多PPC(Professional Program Code)程式範例解題
 
-```
-
-# PPC_Ez 2.beautify
+# PPC_Ez初階PPC-CTF實戰示範
+## PPC_Ez 2.beautify
 ```
 題目敘述
 幫我美化一下這句子
@@ -26,13 +24,7 @@ answer : this is test try to beautify me
 ----- Now You Turn -----
 sentence : MISs cOnTEmPT_NECk-dip dEFeAT-PAymEnt_innOCENT-pEn-cOnfRonTatION_AdMIraTIon_SChOOL-Trap-CIGarETte-owe hunTER
 answer : 
-```
-## 解題思維
-```
-
-```
-
-## 
+``` 
 ```
 #!/usr/bin/env python3
 from pwn import *
