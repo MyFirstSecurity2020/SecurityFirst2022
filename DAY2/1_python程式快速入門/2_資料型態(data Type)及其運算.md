@@ -46,6 +46,19 @@ Python 支持三種不同的數值型別(Data Type)：
 請參閱底下網址完成數值(Numeric)資料的各種運算
 https://www.w3schools.com/python/python_operators.asp
 ```
+- [Python 速查手冊1.6 運算子](http://kaiching.org/pydoing/py/python-operator.html)
+
+### 算術運算子Arithmetic operators
+|運算子|	功能|	範例|
+| ---|---|---|
+|+	|加	|a + b|
+|-|	減	|a - b|
+|*	|乘	|a * b|
+|**	|指數	|a ** b|
+|/	|除	|a / b|
+|//	|整數除法	|a // b|
+|%	|取餘數|	a % b|
+
 ### [實作練習]底下程式執行後結果為何?
 ```
 a = 17 / 3
@@ -60,12 +73,12 @@ a,b,c
 x = 5
 print(x > 3 and x < 10)
 ```
-### 範例:底下輸出為何? and why?
+
 ```
 x = 5
 print(x > 3 or x < 4)
 ```
-### 範例:底下輸出為何? and why?
+
 ```
 x = 5
 print(not(x > 3 and x < 10))
