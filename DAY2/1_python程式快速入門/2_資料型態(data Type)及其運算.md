@@ -68,7 +68,7 @@ c = 17 % 3
 a,b,c
 ```
 ## CTF TIME 練習:Python101:11的51次方
-## CTF TIME 練習:RSA加密演算法的數學計算
+## CTF TIME 練習:Python101:RSA加密演算法的數學計算
 
 ### 邏輯運算 Logical Operators
 ### 範例:底下輸出為何? and why?
