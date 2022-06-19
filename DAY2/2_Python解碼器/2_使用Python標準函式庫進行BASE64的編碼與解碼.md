@@ -61,3 +61,41 @@ decoded_data = base64.b32decode(encoded_data)
 print('Decoded :', decoded_data)
 ```
 ### [作業] 使用Pyhon程式解Crytpo 101: Base64及Base32哪兩題
+
+## CTF TIME練習題:編碼102:angstromCTF 2016 : what-the-hex 20
+```
+Decode using hex and see what you get...
+6236343a20615735305a584a755a58526659323975646d567963326c76626c3930623239736331397962324e72
+```
+
+#### [可以不必教]先試看看[底下程式要在Python 2 才會正常執行]
+
+步驟一:先將十六進位的數字轉成文字
+```
+'6236343a20615735305a584a755a58526659323975646d567963326c76626c3930623239736331397962324e72'.decode("hex")
+```
+```
+'b64: aW50ZXJuZXRfY29udmVyc2lvbl90b29sc19yb2Nr'
+```
+步驟二:將獲得的文字再使用base 64解碼
+```
+import base64
+base64.b64decode('aW50ZXJuZXRfY29udmVyc2lvbl90b29sc19yb2Nr')
+```
+### Python 3的寫法[使用 標準函式庫的binascii模組]
+```
+binascii模組包含很多用來方法來轉換二進位制和各種ASCII編碼的二進位制表示法
+更多說明請參閱:
+https://docs.python.org/zh-cn/3/library/binascii.html
+```
+
+步驟一:先將十六進位的數字轉成文字
+```
+import binascii
+binascii.unhexlify('6236343a20615735305a584a755a58526659323975646d567963326c76626c3930623239736331397962324e72')
+```
+步驟二:將獲得的文字再使用base 64解碼
+```
+import base64
+base64.b64decode('aW50ZXJuZXRfY29udmVyc2lvbl90b29sc19yb2Nr')
+```
