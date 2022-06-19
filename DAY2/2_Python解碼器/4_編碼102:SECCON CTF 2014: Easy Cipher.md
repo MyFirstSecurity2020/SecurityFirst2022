@@ -106,8 +106,8 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-### 使用Python正規表達法regression expression
-- [](https://docs.python.org/zh-tw/3/howto/regex.html#:~:text=%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%A4%BA%E5%BC%8F(%E4%B9%9F%E7%A8%B1,TeX%20%E5%91%BD%E4%BB%A4%E6%88%96%E4%BB%BB%E4%BD%95%E6%9D%B1%E8%A5%BF%E3%80%82)
+### 使用Python正規表達法Regular expression
+- [Python正規表達法](https://docs.python.org/zh-tw/3/howto/regex.html#:~:text=%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%A4%BA%E5%BC%8F(%E4%B9%9F%E7%A8%B1,TeX%20%E5%91%BD%E4%BB%A4%E6%88%96%E4%BB%BB%E4%BD%95%E6%9D%B1%E8%A5%BF%E3%80%82)
 
 - [解答資料來源](https://wiremask.eu/writeups/seccon-ctf-2014-crypto-100-easy-cipher/)
 ```
