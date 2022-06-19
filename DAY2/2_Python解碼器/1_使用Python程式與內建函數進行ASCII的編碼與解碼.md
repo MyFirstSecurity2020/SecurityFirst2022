@@ -1,4 +1,4 @@
-# [1]使用Python程式與內建函數進行ASCII的編碼與解碼
+### [1]使用Python程式與內建函數進行ASCII的編碼與解碼 [YOUTUBE錄影教學]()
 
 ### Python 內建函數(Built in Functions):chr()與ord()
 ```
