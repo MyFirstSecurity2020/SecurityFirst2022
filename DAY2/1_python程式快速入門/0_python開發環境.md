@@ -1,4 +1,4 @@
-# python開發環境
+# python開發環境 [錄影教學影片YOUTUBE](https://youtu.be/4iyU3XKhz7Q)
 ```
 python有許多開發環境與IDE(Pycharm, spyder,visual studio code,...)
 
