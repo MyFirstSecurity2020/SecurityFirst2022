@@ -1,4 +1,4 @@
-# [2]使用Python標準函式庫進行BASE64的編碼與解碼
+### [2]使用Python標準函式庫進行BASE64的編碼與解碼 [YOUTUBE錄影教學](https://youtu.be/z2jxjkl5X-4)
 
 ###  Python 標準函式庫 (Standard Library)
 ```
