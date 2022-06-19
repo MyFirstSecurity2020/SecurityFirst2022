@@ -146,6 +146,7 @@ b = 0.9999
 int(a)
 ```
 ### 數字系統(number system)的轉換
+- [數目系統(number system)之n進位制說明](https://zh.wikipedia.org/wiki/進位制)
 ```
 10進位(Decimal)  二進位(binary)  八進位(Octal)  十六進位(Hexadecimal)
 
