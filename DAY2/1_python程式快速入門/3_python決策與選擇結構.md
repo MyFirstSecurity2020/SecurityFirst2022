@@ -106,10 +106,7 @@ if ((year%400==0) or (year%4==0 and year%100!=0)):
 else:
   print("{0} 不是閏年".format(year))
 ```
-### 作業
-```
-記得完成 PPC_Ez 3.calendar
-```
+
 
 ## 完成Python101:IF 潤年
 
