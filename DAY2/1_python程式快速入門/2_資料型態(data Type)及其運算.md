@@ -145,6 +145,50 @@ int(a)
 b = 0.9999
 int(a)
 ```
+### 數字系統(number system)的轉換
+```
+10進位(Decimal)  二進位(binary)  八進位(Octal)  十六進位(Hexadecimal)
+
+1011(二進位) = 1*(2**2)+0*(2**2)+1*(2**1)+1*(2**0)
+
+1011(二進位) = 13(八進位) = B(十六進位) = 11(十進位)
+
+Python表示法:
+0b1011(二進位:0b開頭)  0o13(八進位:0o開頭)   0xb(十六進位:0x開頭)
+```
+
+###  使用Python 內建函數(Built in Functions)解決  數字系統的轉換問題
+
+```
+https://www.w3schools.com/python/python_ref_functions.asp
+
+bin()
+oct()
+int()
+hex()
+```
+
+### 給你十進位的 344, 二進位(binary)|八進位(octal)|十六進位(hexadecimal)是多少?
+```
+dec = 344
+
+print("10進位數字",dec,"可被轉換成:")
+print(bin(dec),"二進位(binary).")
+print(oct(dec),"八進位(octal).")
+print(hex(dec),"十六進位(hexadecimal).")
+```
+## int[]內建函數
+```
+功能:將一個字串或數位轉換為整數型。
+
+語法: int(x, base=10)
+
+參數說明:
+x -- 字串或數位。
+base -- 進制數，預設是十進位。
+
+返回值:會返回一個整數型資料。
+```
 
 ##  CTF TIME 練習:數字系統的轉換:16進位轉10進位
 ##  CTF TIME 練習:數字系統的轉換:8進位轉10進位
