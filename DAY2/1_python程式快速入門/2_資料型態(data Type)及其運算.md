@@ -16,7 +16,7 @@ Python有眾多資料型態(data Type)及其各種運算
    各種內建函數
 ```
 
-# 1_數值(Numeric)資料及其運算
+# 1_數值(Numeric)資料及其運算 [YOUTUBE錄影教學](https://youtu.be/KSwDTSubS1M)
 ```
 [1]Python支援的數值型資料型別(Numerics Data Type)
 [2]基本的運算  <==請參閱書籍
@@ -114,7 +114,7 @@ print ("5 - c = a << 2的值為：", c)
 c = a >> 2;       # 15 = 0000 1111
 print ("6 - c = a >> 2的值為：", c)
 ```
-### [3]內建函式: round()函數的測試
+### [3]內建函式: round()函數的測試  [YOUTUBE錄影教學](https://youtu.be/FSo8k4vFYGc)
 ```
 #Round a number to only two decimals:
 x = round(5.76543, 2)
@@ -199,7 +199,7 @@ base -- 進制數，預設是十進位。
 
 
 
-# 2_字串(string)及其運算
+# 2_字串(string)及其運算  
 ## 字串(string)
 ```
 [1]string字串 資料型態(data type) 
