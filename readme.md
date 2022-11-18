@@ -17,9 +17,13 @@
 - 課程費用：無須任何課程費用
 
 ## 上課之前.....就要先練習
-- 首先完成你的 [github](https://github.com/) 申請  [官方解說:Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
-- 在你的電腦下載 [virtual box](https://www.virtualbox.org/wiki/Downloads) 並安裝完成 [Virtualbox安裝:YOUTUBE影片](https://youtu.be/FC0CX71aGnc)
-- 匯入你要用的linux  [YOUTUBE影片](https://youtu.be/GTpQR7fZcwE)
+- 請上課的學生先申請google帳號及github帳號
+  - (1)google帳號申請方式請參閱底下網址:[【教學】如何申請自己的Google帳號？](https://www.youtube.com/watch?v=H1UTrkMIy_4)
+  - (2)Github帳號申請方式請參閱底下網址[Github帳號申請方式](https://how-to-make-docs.readthedocs.io/zh_TW/latest/GoogleDoc/Github%E5%B8%B3%E8%99%9F%E7%94%B3%E8%AB%8B.html)
+首先完成你的 [github](https://github.com/) 申請  [官方解說:Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
+- Happy Linux Day 預先作業(如果不會,有上實體課程時再仔細跟著大家一起做)
+  - 在你的電腦下載 [virtual box](https://www.virtualbox.org/wiki/Downloads) 並安裝完成 [Virtualbox安裝:YOUTUBE影片](https://youtu.be/FC0CX71aGnc)
+  - 匯入你要用的linux  [YOUTUBE影片](https://youtu.be/GTpQR7fZcwE)
 
 
 ## 資料下載點(請先下載這些龐大的系統)
